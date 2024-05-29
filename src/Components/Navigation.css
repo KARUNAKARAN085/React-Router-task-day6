@@ -1,0 +1,12 @@
+.cal{
+    justify-content: space-evenly;
+  }
+.raw{
+    border: 1px solid black;
+    box-shadow: 0 0 10px 0 ;
+  }
+
+.navt:hover{
+  color: rgb(51, 169, 88);
+  text-decoration:underline;
+}
