@@ -26,7 +26,7 @@ const Datascience = () => {
                 <div className="card h-100" style={{boxShadow: '1px 2px'}}>
                   <img src={data.img} className='card-img-top' alt="..." />
                   <div className="card-body text-center">
-                  <p class="card-text text-center">{data.desc}</p>
+                  <p class="card-text text-center text-muted">{data.desc}</p>
                   </div>
                 </div>
               </div>
